@@ -4,6 +4,8 @@ Iris ETL Pipeline Using Python and MySQL
 This project demonstrates an ETL (Extract, Transform, Validate, and Load) pipeline using the Iris dataset.
 
 The main objective is to extract Iris data, transform and prepare the data using Python, validate the data, and load it into a MySQL database.
+
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -12,6 +14,7 @@ SQLAlchemy
 PyMySQL
 MySQL Workbench
 Git and GitHub
+
 📊 Dataset Information
 Dataset: Iris
 Total rows: 150
